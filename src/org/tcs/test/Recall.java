@@ -10,8 +10,7 @@ public class Recall {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\user\\Crazy1\\Test\\driver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://facebook.com");
-int i = 0;
-System.out.println(i);
+
 	}
 
 }
